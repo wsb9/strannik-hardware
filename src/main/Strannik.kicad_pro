@@ -501,11 +501,11 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
-      "svg": "",
+      "svg": "../../gerber/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
